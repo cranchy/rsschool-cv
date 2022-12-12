@@ -13,3 +13,7 @@
 
 * HTML
 * SCC
+
+### English level
+
+### B2
