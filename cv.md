@@ -14,6 +14,10 @@
 * HTML
 * SCC
 
+## About myself
+
+idk
+
 ### English level
 
 ### B2
